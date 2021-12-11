@@ -1,8 +1,12 @@
 
+
+* {font-family:'Courier New', Courier, monospace}
+
 h1 {text-align: center;}
 img {
-    max-width: 400px; 
-    max-height: auto;
+    max-width:400px;
+    max-height:auto 
+    
 
 }
 
@@ -10,7 +14,8 @@ p {text-align:center}
 
 .images{display:flex;
 justify-content:center;
-flex-wrap:wrap}
+flex-wrap:wrap;
+}
 
 .bottom_right{display:flex;
     justify-content: center;
