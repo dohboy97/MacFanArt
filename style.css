@@ -6,6 +6,8 @@ img {
 
 }
 
+p {text-align:center}
+
 .images{display:flex;
 justify-content:center;
 flex-wrap:wrap}
